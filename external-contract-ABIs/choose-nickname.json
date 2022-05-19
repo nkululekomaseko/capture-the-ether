@@ -1,0 +1,16 @@
+[
+  {
+    "name": "setNickname",
+    "type": "function",
+    "inputs": [
+      {
+        "name": "nickname",
+        "type": "bytes32"
+      }
+    ],
+    "outputs": [],
+    "payable": false,
+    "constant": false,
+    "stateMutability": "nonpayable"
+  }
+]

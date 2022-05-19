@@ -1,0 +1,14 @@
+[
+  {
+    "name": "guess",
+    "type": "function",
+    "inputs": [
+      {
+        "name": "n",
+        "type": "uint8"
+      }
+    ],
+    "outputs": [],
+    "payable": true
+  }
+]
